@@ -1,0 +1,9 @@
+AUTHORS
+ChangeLog
+*~
+*.out
+*.egg*
+*.swp
+*.pyc
+*.log
+.tox
